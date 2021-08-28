@@ -1,0 +1,28 @@
+body{
+	  background-size:cover;
+    background-repeat: no-repeat;
+}
+h1{
+  font-family: "Verdana";
+  font-style: italic;
+   color: #ff0060;
+}
+
+.key1{
+	padding-top: 30px;
+}
+
+.key2{
+	padding-top: 20px;
+}
+
+.key3{
+	padding-top: 20px;
+}
+
+.key4{
+	padding-top: 20px;
+}
+.color{
+	color: #ff008e;
+}
